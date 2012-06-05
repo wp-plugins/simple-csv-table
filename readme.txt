@@ -1,4 +1,4 @@
-=== upPrev ===
+=== Simple CSV table  ===
 Contributors: iworks
 Donate link: http://iworks.pl/donate/simple-csv-table.php
 Tags: csv, table, csv2table,
